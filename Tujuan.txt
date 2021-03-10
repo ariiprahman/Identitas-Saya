@@ -1,8 +1,9 @@
 Tujuan untuk tahun depan:
-- Menjadi ahli web developer.
 - Belajar Bahasa Baru.
 - Belajar Framework baru (Laravel, VUE JS)
 - Belajar Flutter dan Kotlin.
 - Membuat Aplikasi Android.
 - Membuat Aplikasi Ios.
-- Mengikuti program sertifikasi Ahli Android
+- Mengikuti program sertifikasi Ahli Android.
+- Mencari pekerjaan baru sesuai keahlian.
+- Mengikuti Pelatihan lagi untuk menambah Ilmu
