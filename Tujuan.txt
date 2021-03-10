@@ -1,3 +1,5 @@
 Tujuan untuk tahun depan:
 - Menjadi ahli web developer.
 - Belajar Bahasa Baru.
+- Belajar Framework baru (Laravel, VUE JS)
+- Belajar Flutter.
